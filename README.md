@@ -14,6 +14,12 @@ Shake is a distributed storage for OpenStack and Docker.
 
 ![Shake Architecture](/resource/doc/architecture.png?raw=true)
 
+The Shake Storage include three components:
+
+- SDC: Shake Data Client
+- SDS: Shake Data Server
+- MDS: MetaData Server
+
 ## RoadMap
 
 ### ~~v0.0.0~~
