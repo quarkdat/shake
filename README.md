@@ -16,7 +16,21 @@ Shake is a distributed storage for OpenStack and Docker.
 
 ## RoadMap
 
-### v0.0.1
+### ~~v0.0.0~~
+
+*Complated at Aug 31th, 2015*
+
+- [x] Frameworks
+  - [x] Network framework
+  - [x] Thread framework
+- [x] Protocols
+  - [x] Message
+  - [x] Op
+  - [x] I/O
+
+### ~~v0.0.1~~
+
+*Complated at Sep 28th, 2015*
 
 - [x] Interfaces
   - [x] Fio engine
@@ -39,7 +53,7 @@ Shake is a distributed storage for OpenStack and Docker.
 - [ ] OpenStack
   - [ ] Nova
   - [ ] Glance
-  - [ ] Cinder 
+  - [ ] Cinder
 
 ### v0.0.3
 
